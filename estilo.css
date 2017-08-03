@@ -1,3 +1,17 @@
-body{
-background-color: blue;
+footer{
+background-color: #3399ff;
+padding: 20px;
+}
+
+footer h4{
+	text-align: center;
+}
+img{
+	width: 40px ;
+}
+.center{
+	margin: auto;
+    padding: 10px;
+    text-align: center;
+    border-color:green;
 }
